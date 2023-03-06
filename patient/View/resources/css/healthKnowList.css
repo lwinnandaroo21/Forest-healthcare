@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.healthKtitle{
+    font-family: var(--fontfamily-poppins);
+    font-size: 1.5rem;
+}
+.para{
+    text-indent: 3rem;
+    font-family: var(--fontfamily-poly );
+}
+.articaldetail::first-letter{
+    font-size: 2em;
+    font-weight: 20em;
+    color: #43a391;
+}
+.articaldetail{
+    text-indent: 20%;
+}
+.card{
+    max-width: 600px;   
+    background-color: #D8F1E7 !important;
+    border: 5px solid 188067 !important;
+    border-radius: 20px !important;
+    box-shadow: 0px 2px 5px gray;
+}
+
+/* .btn-readmore{
+    width: 100px !important;
+    height: 35px !important;
+    border-radius: 0px !important;
+    background-color: #1c51d5;
+} */
+
+.articlePhoto{
+    width: 10rem ;
+    float: right;
+}
+@media screen and (max-width: 600px) {
+    .articlePhoto{
+        float: none !important;
+    } 
+}
+
+.btn-readmore{
+    background-color: #f9c56b;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 500;
+    padding: 5px;
+    cursor: pointer;
+    min-width: fit-content;
+    font-size: 1rem;
+    border: none;
+}
+
+/* Search box */
+#btnSearch{
+    padding: 0.5rem !important;
+    background-color: #43a391 !important;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px gray;
+    margin-left: 1rem;
+}
+
+.searchBox{
+    border: 2px solid #43a391;
+    box-shadow: 0px 2px 5px gray;
+    height: 2rem;
+
+}
+.hList{
+    min-height: 55vh;
+}

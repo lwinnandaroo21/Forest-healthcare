@@ -1,0 +1,78 @@
+<<<<<<< HEAD
+2022-10-31 16:44:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2022-10-31 16:44:29: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2022-10-31 16:44:31: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\phpPJChallenge\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+=======
+2022-10-31 16:44:32: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+2022-10-31 17:16:10: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+>>>>>>> origin/main
+2022-11-06 14:38:39: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\Project\Project Management\04.開発\forest_healthcare\patient\View\resources\lib\phpqrcode\qrsplit.php</b> on line <b>62</b><br />

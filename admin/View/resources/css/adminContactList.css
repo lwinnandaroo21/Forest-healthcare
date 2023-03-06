@@ -1,0 +1,70 @@
+.contactListTitle {
+    font-family: "Poly";
+    font-size: 1.2em;
+    color: var(--white);
+}
+@media screen and (max-width:600px) {
+    .contactListTitle{
+        font-size: 13px;
+    }
+}
+.adminContactListCardText{
+    font-family: var(--fontfamily-poly);
+    font-size: 1em;
+    color: var(--white);
+}
+@media screen and (max-width:600px) {
+    .adminContactListCardText{
+        font-size: 12px;
+    }
+}
+
+.adminContactListCardBg {
+    background-color: var(--green);
+    height: 230px;
+    float: left;
+    width: 40%;
+    margin: 10px 20px 20px 10px;
+    border-radius: 10px;
+}
+
+.adminContactListbtn {
+    color: var(--white);
+    background-color: var(--lightOrange);
+    font-family: var(--fontfamily-poppins);
+    font-size: 1vw;
+    border: none;
+    padding: 1vw;
+    border-radius: 8px;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.adminContactListCard{
+    margin-bottom: 20px;
+}
+/* .mailList{
+    background-color: var(--green);
+    height: 60px;
+    border-radius: 10px;
+    font-size: 2em;
+    font-family: var(--fontfamily-poly);
+    color: var(--white);
+    text-align: center;
+    margin-bottom: 20px;
+    
+} */
+.cardBody{
+    padding: 20px;
+    height: 230px;
+    overflow: hidden;
+    overflow-y: scroll;
+    word-break: break-word;
+}
+.cardRow{
+    margin-bottom: 15px;
+}
+
+
+
+

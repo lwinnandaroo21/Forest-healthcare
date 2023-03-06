@@ -1,0 +1,42 @@
+#header {
+  background-color: #43a391;
+}
+
+#headernav {
+  background-color: #64d3a5;
+}
+
+.headerlogo {
+  width: 100px;
+}
+
+.logotext {
+  font-size: 1.1em;
+}
+
+@media (min-width: 992px) {
+  .navbar .navbar-expand-lg {
+    flex-wrap: nowrap !important;
+    justify-content: flex-start !important;
+  }
+}
+
+/* .logowithText span{
+    wi
+} */
+.footer {
+  background-color: #43a391;
+}
+
+.footerlogo {
+  width: 100px;
+  float: left !important;
+}
+
+.footerRightSide {
+  margin-bottom: 20px !important;
+}
+
+.contact {
+  color: var(--orange) !important;
+}

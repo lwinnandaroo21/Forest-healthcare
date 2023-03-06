@@ -1,0 +1,43 @@
+.table {
+    margin-top: 50px;
+}
+.title {
+    background: #188067;
+    color: white;
+
+}
+table tr{
+    font-size: 1.2vw;
+}
+
+.hospitalScheduleEditIcon {
+    color: var(--green);
+    font-size: 1.5vw;
+}
+
+.hospitalScheduleDeleteIcon {
+    color: var(--btncolorred);
+    font-size: 1.5vw;
+}
+.docPhoto{
+    width: 60%;
+}
+/* pagination */
+.pager .active {
+    background-color: #188067;
+    color: white !important;
+    font-weight: 700;
+    transition: all 0.3s;
+  }
+  .pager .btnNum {
+    transition: all 0.3s;
+    color: black;
+  }
+  .pager .btnNum:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    font-weight: 700;
+  }
+  .deleteBtn {
+    color: #f55858;
+  }

@@ -1,0 +1,107 @@
+
+.adminContact-col{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 15px;
+    background-color: var(--white);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.adminContact-form{
+    margin: 20px ;
+}
+.adminContactInput {
+    margin-bottom: 10px ;
+    border: 1px solid #2535A1 !important;
+    border-radius: 5px ;
+    box-sizing: border-box !important;
+    padding: 5px ;
+    font-size: 0.8em ;
+    font-family: var(--fontfamily-poppins) !important;
+}
+.adminContactTextarea{
+    margin-bottom: 20px ;
+    border: 1px solid #2535A1 !important;
+    border-radius: 8px ;
+    outline: none;
+    /* box-sizing: border-box; */
+    padding: 5px;
+    font-size: 0.8em ;
+    font-family: var(--fontfamily-poppins) !important;
+}
+.adminContactbtn{
+    color: var(--white);
+    background-color: var(--green) ;
+    font-family: var(--fontfamily-poppins);
+    font-size: 1.5rem ;
+    /* border: none; */
+    padding: 4px ;
+    border-radius: 8px ;
+    border: none;
+    width: 5em;
+    /* margin-left: 10px; */
+}
+.hospitalBtn{
+    margin-left: 22px;
+}
+
+.adminPPadd{
+    height: 80% !important;
+}
+.adminPPbtn{
+    background-color: var(--orange)!important;
+}
+.adminPPaddTitle{
+    color: var(--green);
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+
+.mainPPbgeditcolor{
+    background-image: linear-gradient(to right, #A6E1F3,#64d3a5db,#188068);
+}
+
+.adminHospitaladdTitle{
+    color: var(--green);
+    font-size: 2em;
+    margin-top: 20px;
+    margin-left: 10%;
+    font-style: italic;
+    font-family: var(--fontfamily-poly);
+}
+
+.adminProfileUpdate{
+    margin-left: 35%;
+    width: 12vw;
+    height: 12vw;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+#Adminfile-upload {
+    display: none;
+}
+.Admincustom-file-upload {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 4px;
+    cursor: pointer;
+    margin-left: 35%;
+    margin-bottom: 15px;
+    width: 30%;
+    text-align: center;
+    color: var(--white);
+    background-color: var( --lightBlack);
+    font-family: var(--fontfamily-poppins);
+    font-size: 1vw;
+}
+.adminProfileUpdateChoose{
+    margin-left: 32%;
+    margin-bottom: 10px;
+    font-size: 1.5vw;
+    font-family: var(--fontfamily-poly);
+}
+.adminProfileUpdatebtn{
+    background-color: var(--btncolorred) !important;
+}

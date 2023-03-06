@@ -1,0 +1,145 @@
+/* .content-wrapper {
+    background-color: #64D3A5;
+    height: 100vh;
+} */
+
+#nav1 {
+    background-color: #43A391;
+    height: 50px;
+}
+
+.nav1 {
+    position: absolute;
+    right: 35px;
+}
+
+#accicon {
+    position: absolute;
+    top: 5px;
+    width: 30px;
+}
+
+#nav2 {
+    background-color: #64D3A5;
+    height: 80px;
+}
+
+#logo {
+    width: 110px;
+}
+
+.myprofile {
+    width: 20px;
+}
+
+.useraccMenubox {
+    position: absolute;
+    width: 327px;
+    height: 330px;
+    left: 89px;
+    top: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 29px;
+}
+
+.useraccMenu {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 40px;
+    font-size: 1.3 em;
+}
+
+.apptHistory {
+    color: #188067;
+}
+
+.accitem {
+    margin-top: 25px;
+
+}
+
+.useraccicon {
+    margin-top: 35px;
+}
+
+/* footer */
+.pagination {
+    /* position: relative; */
+    top: 670px;
+}
+
+.footer {
+    background-color: #43A391;
+    /* position: relative; */
+    top: 610px;
+}
+
+.vision {
+    width: 262px;
+    font-size: 15px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.diseaseListTitle {
+    font-weight: 600;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    /* min-width: 250px; */
+    max-width: 600px;
+}
+
+/* table */
+.table {
+    box-shadow: 0px 2px 5px gray;
+    margin-top: 3rem !important;
+
+}
+
+.title {
+    padding: 10px !important;
+    background: #188067;
+    color: white;
+    text-align: center !important;
+}
+
+tr {
+    background-color: white;
+    color: black;
+}
+
+td {
+    text-align: center !important;
+}
+
+.editBtn {
+    color: #188067;
+    margin-right: 15px;
+}
+
+.trashBtn {
+    color: #F55858;
+}
+
+/* pagination */
+.pager .active {
+    background-color: #188067;
+    color: white;
+    font-weight: 700;
+    transition: all 0.3s;
+  }
+  .pager .btnNum {
+    transition: all 0.3s;
+  }
+  .pager .btnNum:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    font-weight: 700;
+  }
+  

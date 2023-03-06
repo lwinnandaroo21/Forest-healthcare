@@ -1,0 +1,76 @@
+.adminPPlistheaderbg {
+    background-color: var(--green);
+    color: var(--white);
+    height: 70px;
+    font-size: 1.2em;
+
+}
+
+tr {
+    font-family: var(--fontfamily-poly) !important;
+}
+
+.adminPPeditIcon {
+    color: var(--green);
+    font-size: 1.5vw;
+    margin-right: 30px;
+}
+
+.adminPPdeleteIcon {
+    color: var(--btncolorred);
+    font-size: 1.5vw;
+}
+
+.adminppaddbtn {
+    color: var(--white);
+    background-color: var(--orange);
+    font-family: var(--fontfamily-poppins) !important;
+    font-size: 1rem;
+    border: none;
+    padding: 4px;
+    border-radius: 8px;
+    width: 5em;
+}
+
+.mainadminPPaddtitle {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: var(--fontfamily-poly) !important;
+}
+
+.adminPPaddtitle {
+    font-size: 2em;
+}
+
+td {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.721);
+}
+
+.tableBodyBg {
+    background-color: var(--white);
+    margin-top: 2em;
+
+}
+
+.editbutton {
+    margin-left: 20px;
+}
+
+/* pagination */
+.pager .active {
+    background-color: #188067;
+    color: white !important;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+
+.pager .btnNum {
+    transition: all 0.3s;
+    color: black;
+}
+
+.pager .btnNum:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    font-weight: 700;
+}

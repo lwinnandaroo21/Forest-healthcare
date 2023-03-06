@@ -1,0 +1,86 @@
+body {
+    background-color: #64D3A5;
+    ;
+}
+
+.adminAbout-col {
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.subtitleAboutus {
+    font-size: 1.3em;
+    font-family: poly !important;
+    margin-bottom: 15px;
+}
+
+.selectBoxAboutus {
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    height: 10em;
+    margin-bottom: 20px;
+    background-color: var(--white);
+}
+
+#file-upload {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0.5vw;
+    cursor: pointer;
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 33%;
+    text-align: center;
+    color: black;
+    background-color: var(--orange);
+    background-color: #F9C56B;
+}
+
+.container {
+    border-radius: 10px;
+    max-width: 600px;
+    min-height: 500px;
+    background-color: white;
+    margin-top: 3rem;
+    box-shadow: 0px 2px 5px gray;
+}
+
+.diseaseListTitle {
+    font-weight: 600;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    /* min-width: 250px; */
+    max-width: 600px;
+
+}
+
+.btnSave {
+    background-color: #188067;
+    color: white;
+    padding: 3px !important;
+    font-size: 18px !important;
+    width: 90px;
+    margin: auto;
+}
+
+.footer {
+    background-color: #188067;
+    height: 150px;
+}
+
+.content-wrapper {
+    background-color: #64d3a5;
+}
+
+#CSfile-chosen{
+    margin-left: 35%;
+    font-family: var(--fontfamily-poly);
+}

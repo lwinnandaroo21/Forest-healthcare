@@ -1,0 +1,118 @@
+body {
+  background-color: #9ecef9 !important;
+}
+.mhdiv {
+  width: 100%;
+  overflow: hidden;
+}
+/* .pluse-parent {
+  display: flex;
+} */
+
+.plusebtn {
+  width: 150px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #063551;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  margin-left: 10%;
+}
+
+/* Mental Health Cards */
+#searchResult{
+  margin: auto !important;
+}
+.cards {
+  column-count: 2;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.cards .card-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100% !important;
+
+}
+
+.card1,.card2, .card3,.card4{
+  cursor: pointer;
+  margin: auto;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  width: 23rem;
+  height: 12rem;
+}
+
+@media screen and (max-width: 600px) {
+  .card1,.card2, .card3,.card4{
+    margin: 5%;
+    font-size: smaller;
+  }
+  
+}
+.cards .text{
+    text-align: left;
+    margin: 110px 0 0 10px;
+    font-size: larger;
+    font-family: 'Poly', serif;
+}
+
+.card-body .card1 {
+  background-image: radial-gradient(
+    rgb(186, 242, 248),
+    rgb(87, 210, 221),
+    rgb(24, 161, 173)
+  );
+}
+.card4 {
+    background-image: radial-gradient(
+      rgb(217, 194, 255),
+      rgb(194, 129, 244),
+      rgb(152, 47, 235)
+    );
+  }
+  .card2 {
+    background-image: radial-gradient(
+      rgb(240, 205, 205),
+      rgb(242, 149, 149),
+      rgb(251, 121, 137)
+    );
+  }
+  .card3 {
+    background-image: radial-gradient(
+      rgb(191, 248, 186),
+      rgb(106, 221, 87),
+      rgb(27, 173, 24)
+    );
+  }
+
+  /* Mental Health Test */
+.testImg {
+  width: 70% !important;
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.mental-health h3 {
+  font-size: 2.5em;
+  margin-top: 5%;
+
+}
+
+@media screen and (max-width: 600px) {
+  .mental-health h3 {
+    font-size: 1em;
+  }
+  
+}

@@ -1,0 +1,97 @@
+
+.adminContact-col{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 15px;
+}
+.adminContact-form{
+    margin: 20px ;
+}
+.adminContactInput {
+    margin-bottom: 20px ;
+    border: 1px solid #2535A1 ;
+    border-radius: 5px;
+    outline: none ;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 0.8em;
+    font-family: var(--fontfamily-poppins) !important;
+}
+.adminContactTextarea{
+    margin-bottom: 20px ;
+    border: 1px solid #2535A1 ;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 0.8em;
+    font-family: var(--fontfamily-poppins) !important;
+}
+.adminContactbtn{
+    color: var(--white);
+    background-color: var(--green);
+    font-family: var(--fontfamily-poppins) !important;
+    font-size: 1rem ;
+    /* border: none; */
+    padding: 4px ;
+    border-radius: 8px ;
+    border: none;
+    width: 5em ;
+    margin-left: 20px;
+}
+
+.adminHospitaladdTitle{
+    color: var(--green);
+    font-size: 2.5vw;
+    margin-top: 20px;
+    margin-left: 5%;
+    font-style: italic;
+    font-family: var(--fontfamily-poly);
+}
+
+.hospitalProfileUpdate{
+    margin-left: 35%;
+    width: 80px;
+    /* height: 15vw;
+    border-radius: 50%; */
+    margin-bottom: 10px;
+}
+#Adminfile-upload {
+    display: none;
+}
+.Admincustom-file-upload {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 4px;
+    cursor: pointer;
+    margin-left: 35%;
+    margin-bottom: 15px;
+    width: 100px;
+    text-align: center;
+    color: var(--white);
+    background-color: var(--lightBlack);
+    font-family: var(--fontfamily-poppins) !important;
+    font-size: 1vw;
+}
+.hospitalProfileUpdateChoose{
+    margin-left: 35%;
+    margin-bottom: 10px;
+    font-size: 1em;
+    font-family: var(--fontfamily-poly);
+}
+.hospitalProfileUpdatebtn{
+    background-color: var(--btncolorred);
+}
+.hospitalVerticalLine {
+    border-left: 2px solid black;
+    height: 90%;
+    margin-top: 5%;
+    opacity: 0.1;
+}
+.hospitalEditProfile{
+    margin-top: 50px;
+}
+.hospitalcontrol-label{
+    font-family: var(--fontfamily-poly);
+}

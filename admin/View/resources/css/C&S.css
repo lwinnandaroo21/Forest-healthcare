@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poly;
+}
+.header {
+    background-color: antiquewhite !important;
+    height: 100px;
+}
+
+.footer {
+    background-color: antiquewhite !important;
+    height: 100px;
+    margin-top: 100%;
+}
+
+h4{
+   padding: 0.5rem;
+   font-size: 1.2rem;
+   margin-left: 0.5rem;
+}
+
+.box{
+    width: 90%;
+    margin-left: 5%;
+    /* margin-top: 5%; */
+    background-color: #43A391;
+}
+
+.alpha{
+    color: white;
+    text-decoration: none;
+}
+.list-inline li{
+    margin: 0 5px 5px 5px;
+    padding: 10px;
+    display: inline-block;
+}
+.CStitle{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #43A391 ;
+    font-size: 2rem;
+}
+
+
+/* .diseaseli li{
+    display: inline-block;
+    margin: 0 10% 5px 2%;
+    padding: 10px;
+}
+.diseaseli li a{
+    color: #43A391;
+}
+.list span{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.list{
+    margin-left: 30px;
+}
+.listDetail{
+    margin-left: 10%;
+}
+.CShr{
+    width: 80%;
+    margin-left: 10%;
+}
+.diseaseList{
+    margin-top: 3%;
+} */
+
+.diseaseli li{
+    width: 30%;
+    float: left;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+@media screen and (max-width:600px){
+    .diseaseli li{
+        width: 100%;
+    }
+}
+
+.list{
+    margin-left: 30px;
+}
+.listDetail{
+    margin-left: 10%;
+}
+.CShr{
+    width: 80%;
+    margin-left: 10%;
+}
+.diseaseli li a{
+    color: #43A391;
+}
+.list span{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+

@@ -1,0 +1,68 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+.body {
+  min-height: 100vh;
+}
+
+.healthKtitle {
+  font-family: var(--fontfamily-poppins);
+  font-size: 2vw;
+}
+
+/* backbutton */
+
+.back {
+  font-size: 20% !important;
+  color: #188067 !important;
+  display: inline;
+  font-size: 1.5vw !important;
+  transition: all 0.1s;
+  font-weight: bold;
+}
+.back:hover {
+  text-shadow: 0px 3px 12px gray;
+}
+.fa-circle-left {
+  background-color: #188067;
+  color: white;
+  border-radius: 50%;
+  font-size: larger;
+}
+p {
+  /* text-indent: 2%; */
+  font-family: var(--fontfamily-poly);
+}
+.articledetail::first-letter {
+  font-size: 2em;
+  font-weight: 20em;
+  color: #64d3a5;
+}
+.articledetail ~ p , .articledetail ~ ul{
+  font-size: 1.5vw !important;
+  --fontfamily-poly: 'Poly', serif !important;
+}
+
+.image {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.articlephoto{
+  width: 60vw !important;
+  height: 40vw !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .healthKtitle{
+font-size: 18px;
+  }
+  .articledetail ~ p , .articledetail ~ ul{
+    font-size: 16px !important;
+    --fontfamily-poly: 'Poly', serif !important;
+  }
+  a.back{
+    font-size: larger;
+  }
+}

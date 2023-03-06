@@ -1,0 +1,34 @@
+.editDoctorBody {
+  background-color: #99e3d2;
+}
+
+.doctorEditText {
+  text-align: center;
+  color: #188067;
+  font-size: 3em;
+}
+.btnEditD {
+  width: 88px;
+  height: 36px;
+  background: #188067 !important;
+  border-radius: 8px;
+  border: none;
+  border-bottom: 1px solid #161817;
+  color: white;
+}
+.cancleBtn {
+  color: white !important;
+}
+a {
+  color: #fff;
+}
+@media (max-width: 768px) {
+  .editdoctor {
+    margin-left: 20px !important;
+    width: 100%;
+  }
+
+  /* .loginimg{
+        display: none;
+    } */
+}

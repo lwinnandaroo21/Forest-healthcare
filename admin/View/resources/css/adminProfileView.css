@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left_text {
+    color: rgb(146, 141, 141);
+    font-family: 'Poppins', sans-serif;
+}
+
+.right_text {
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.profilePic {
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #188067;
+}
+
+td {
+    column-width: 15rem;
+}
+
+table {
+    line-height: 5rem;
+}
+
+.box {
+    font-size: 16px;
+    border: 1px solid rgb(185, 184, 184);
+    padding: 2rem;
+    max-width: 50rem;
+    min-width: 25rem;
+    height: 35rem;
+    min-height: 30rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(197, 189, 189);
+}
+
+.container div {
+    margin: 20px;
+}
+
+.btnUpdate {
+    background-color: #188067;
+    color: white;
+    margin-right: 2rem
+}
+
+.buttons button {
+    font-size: 20px;
+    padding: 6px;
+}

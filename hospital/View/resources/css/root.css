@@ -1,0 +1,408 @@
+:root {
+    --green            :#188067;
+    --btncolorgreen    :#188067;
+    --btncolorred      :#FC4D36;
+    --btncoloryellow   :#F9C56B;
+    --btncolorteal     :#43A391;
+    --lightgreen       :#64D3A5;
+    --lightblue        :#A6E1F3;
+    --orange           :#F9C56B;
+    --white            :#FFFFFF;
+    --black            :#000000;
+    --gray             :#545353;
+    --lightBlack       :rgba(0, 0, 0, 0.879);
+    
+    --fontfamily-poly     : 'Poly', serif;
+    --fontfamily-poppins  :  'Poppins', sans-serif;
+    --fontfamily-roboto   : 'Roboto', sans-serif;
+}
+
+.forInput-And-Textarea{
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 1em;
+    font-family: "Poppins";
+}
+
+.forbutton{
+    color: white;
+    background-color: #188067;
+    font-family: poppin !important;
+    font-size: 1rem;
+    border: none;
+    padding: 4px;
+    border-radius: 8px;
+    width: 5em;
+}
+
+
+
+
+/* header and footer */
+
+#nav1 {
+    background-color: #43A391;
+    height: 50px;
+}
+
+.nav1 {
+    position: absolute;
+    right: 35px;
+
+}
+
+#accicon {
+    position: absolute;
+    top: 5px;
+    width: 30px;
+}
+
+#nav2 {
+    background-color: #64D3A5;
+    height: 80px;
+}
+
+#logo {
+    width: 110px;
+}
+#hospitalLogo{
+    width: 50px;
+}
+.myprofile {
+    width: 20px;
+}
+
+.useraccMenubox {
+    /* position: absolute; */
+    width: 327px;
+    height: 330px;
+    left: 89px;
+    top: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 29px;
+}
+
+.useraccMenu {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 40px;
+    font-size: 1.3 em;
+    float: left;
+}
+
+.apptHistory {
+    /* color: #188067; */
+
+    color: var(--green);
+}
+
+.accitem {
+    margin-top: 25px;
+
+}
+
+.useraccicon {
+    margin-top: 35px;
+}
+
+/* footer */
+.footer {
+    background-color: #43A391;
+    /* position: relative; */
+    /* top: 610px; */
+    /* position: absolute; */
+  bottom: 0;
+  width: 100%;
+  /* height: 2.5rem;             */
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  
+  /* #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            
+  } */
+  
+
+.vision {
+    width: 262px;
+    font-size: 15px;
+}
+
+
+
+.logo {
+    width: 100px;
+}
+
+/* table */
+.table {
+    /* position: absolute; */
+    /* width: 846px; */
+    height: 62px;
+    left: 477px;
+    top: 200px;
+}
+
+.title {
+    background: #188067;
+    color: white;
+
+}
+
+/* viewbutton */
+.btnview {
+    width: 88px;
+    height: 36px;
+    background: #188067;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: white;
+}
+
+
+
+/* header and footer May Moe end*/
+
+
+
+/* Nandar */
+
+
+/* C&S css  Nandar*/
+
+
+.CSbrowseA_Z{
+   padding: 0.5rem;
+   font-size: 1.2rem;
+   margin-left: 0.5rem;
+}
+
+.box{
+    width: 90%;
+    margin-left: 5%;
+    /* margin-top: 5%; */
+    background-color: #43A391;
+}
+
+.alpha{
+    color: white;
+    text-decoration: none;
+}
+.list-inline li{
+    margin: 0 5px 5px 5px;
+    padding: 10px;
+    display: inline-block;
+}
+.CStitle{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #43A391 ;
+    font-size: 2rem;
+}
+
+.diseaseli li{
+    width: 30%;
+    float: left;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+@media screen and (max-width:600px){
+    .diseaseli li{
+        width: 100%;
+    }
+}
+
+.list{
+    margin-left: 30px;
+}
+.listDetail{
+    margin-left: 10%;
+}
+.CShr{
+    width: 80%;
+    margin-left: 10%;
+}
+.diseaseli li a{
+    color: #43A391;
+
+    /* color: var(--green); */
+    
+
+}
+.list span{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* C&S css */
+
+/* C&S detail start */
+
+.detailbg {
+    height: 100%;
+    /* background: radial-gradient(circle,#188067,#64D3A5,#D1F1E9); */
+    background-image: linear-gradient(to top right, #A6E1F3,#64d3a5db,#188068);
+}
+
+
+.detailTitle {
+    text-align: center;
+    margin-top: 1.5em;
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.detailbody {
+    text-align: center;
+    font-size: 1.5vw;
+    margin: 1.5em 2em 2.5em 2em;
+    font-family: "Poppins" !important;
+}
+
+.CSdetailimg {
+    display: block;
+    width: 60%;
+    margin: 0 auto 2.5em auto;
+}
+.treatmentTitle{
+    margin-left: 2em;
+    margin-bottom: 1.5em;
+    font-size: 20px;
+    font-weight: bold;
+}
+.CSLocation{
+    float: left;
+    width: 40%;
+    margin-left: 4em;
+    margin-bottom: 1.5em;
+}
+.CSdetailTitle{
+    font-style: italic;
+    color: black;
+    font-size: 20px;
+}
+.CSLocation span,i{
+    font-size: 15px;
+}
+.CSLocation .address{
+    font-size: 15px;
+}
+
+.detailbg2{
+    background-color: #a6e1f3e2;
+    
+}
+.anxeity{
+    margin-left: 30%;
+    margin-top: 6em;
+}
+.anxeity img{
+    width: 80%;
+    margin-left: 20px;
+}
+.anxeity div{
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+    font-family: poppin !important;
+}
+.healing{
+    margin-top: 6em;
+}
+.healing img{
+    width: 60%;
+    margin-left: 20px;
+}
+.healing div{
+    width: 250px;
+    text-align: center;
+    font-size: 15px;
+    font-family: poppin !important;
+}
+
+/* C&S detail end */
+
+
+/* contact us start */
+
+.verticalLine {
+    border-left: 2px solid black;
+    height: 90%;
+    margin-top: 60%;
+    opacity: 0.1;
+}
+
+.Contact{
+    font-size:30px;
+    margin-top: 7%;
+    font-weight: 30px;
+    margin-bottom: 5%;
+}
+.information {
+    margin-top: 3em;
+    font-size: 1em;
+}
+.infoTitle{
+    font-size: 20px;
+    margin-top: 25%;
+}
+
+.bodyColor {
+    background-color: hwb(166 9% 50%);
+}
+.iconColor{
+    color: white !important;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.infoDetail{
+    color: white;
+    opacity: 0.5;
+    font-size: 15px;
+    margin-left: 15%;
+
+}
+
+.contactboxStyle {
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 15px;
+    font-family: poppin !important;
+}
+
+.contactsendButton {
+    background-color: #F9C56B !important;
+    color: white;
+    border: none !important;
+    margin-top: 5% !important;
+}
+
+/* contact us end */
+
+/* adminContact Us start */
+
+
+
+/* adminContact Us end */
+
+/* Nandar end */

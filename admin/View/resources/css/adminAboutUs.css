@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.adminAbout-col {
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.subtitleAboutus {
+    font-size: 1.5em;
+    font-family: var(--fontfamily-poly);
+    margin-bottom: 15px;
+}
+
+.selectBoxAboutus {
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    height: 10em;
+    margin-bottom: 20px;
+    background-color: var(--white);
+}
+
+#Aboutfile-upload {
+    display: none;
+}
+
+.Aboutcustom-file-upload {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0.5vw;
+    cursor: pointer;
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 33%;
+    text-align: center;
+    color: black;
+    background-color: var(--orange);
+}
+
+#Aboutfile-chosen {
+    margin-left: 37%;
+    font-family: var(--fontfamily-poly);
+}
+
+/* .adminContactbtn{
+    text-align: center !important;
+} */

@@ -1,0 +1,45 @@
+:root {
+    --green            :#188067;
+    --btncolorgreen    :#188067;
+    --btncolorred      :#FC4D36;
+    --btncoloryellow   :#F9C56B;
+    --btncolorteal     :#43A391;
+    --lightgreen       :#64D3A5;
+    --lightblue        :#A6E1F3;
+    --orange           :#F9C56B;
+    --white            :#FFFFFF;
+    --lightOrange      :#FFC652;
+    --black            :#000000;
+    --lightBlack       :rgba(0, 0, 0, 0.879);
+    --blue             :#2535A1;
+    
+    --fontfamily-poly     : 'Poly', serif;
+    --fontfamily-poppins  :  'Poppins', sans-serif;
+    --fontfamily-roboto   : 'Roboto', sans-serif;
+}
+
+.forInput-And-Textarea{
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 1em;
+    font-family: "Poppins";
+}
+
+.forbutton{
+    color: white;
+    background-color: #188067;
+    font-family: poppin !important;
+    font-size: 1rem;
+    border: none;
+    padding: 4px;
+    border-radius: 8px;
+    width: 5em;
+}
+#logo {
+    width: 90px;
+}
+
+

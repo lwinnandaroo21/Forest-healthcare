@@ -1,0 +1,53 @@
+.body{
+    background-color: #99e3d2 ;
+}
+.btnlogin {
+    width: 88px;
+    height: 36px;
+    background: #188067 !important;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: white;
+}
+.dbtnsignup {
+    width: 88px;
+    height: 36px;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: rgb(155, 131, 131);
+}
+.btnsignup {
+    width: 88px;
+    height: 36px;
+    background: white !important;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: #044A3A;
+    font-weight: 500;
+}
+.dbtnlogin {
+    width: 88px;
+    height: 36px;
+    
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: rgb(155, 131, 131);
+}
+
+
+.loginimg{
+    width: 80%;     
+}
+@media (max-width: 768px){
+    .loginimg{
+        display: none;
+    }
+}
+
+.acolor{
+    color: black;
+}

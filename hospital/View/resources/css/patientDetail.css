@@ -1,0 +1,95 @@
+.patient_detail{
+    width: 70vw;
+    height: 50vh;
+    margin-left: 10pc;
+    font-size: 20pt;
+    
+}
+.title {
+    background: #188067 !important;
+    color: white;
+    height: 8vh;
+    font-family: var(--fontfamily-poppins);
+    font-size: 2vw;
+}
+.detail{
+    margin-left: 7pc;
+    
+}
+
+.text_color{
+    color:var(--btncolorteal );
+}
+
+.btnBack{
+    
+    width: 88px;
+    height: 36px;
+    background: #188067 !important;
+    border-radius: 8px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnBack{
+color: white !important;
+}
+/* .pdBodybgcolor{
+    background-color: #A6E1F3;
+    font-family: var(--fontfamily-poppins);
+    font-size: 20px;
+    font-weight: 1vw;
+} */
+
+@media (max-width: 768px){
+    .title{
+        height: 4vh;
+        font-size: 4vw;
+    }
+    .patient_detail{
+        margin-left: 2pc;
+        font-size: 12pt;
+        
+    }
+    .detail{
+        margin-left: 1pc;
+        
+    }
+    
+    .btnBack{    
+        width: 50px;
+        height: 30px;
+    }
+}
+/* .title {
+    background: #188067 !important;
+    color: white;
+    height: 8vh;
+    font-family: var(--fontfamily-poppins);
+    font-size: 2vw;
+}
+.pdBodybgcolor{
+    background-color: #A6E1F3;
+    font-family: var(--fontfamily-poppins);
+    font-size: 20px;
+    font-weight: 1vw;
+}
+.btnBack{
+    
+        width: 88px;
+        height: 36px;
+        background: #188067 !important;
+        border-radius: 8px;
+        border: none;
+        border-bottom: 1px solid #161817;
+        color: white;
+        align-content: center;
+    
+}
+
+.btnBack{
+    color: white !important;
+} */

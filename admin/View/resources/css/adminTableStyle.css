@@ -1,0 +1,42 @@
+/* table title style */
+.title {
+    background: #188067 !important;
+    color: white;
+}
+/* viewbutton */
+.btnview {
+    width: 88px;
+    height: 36px;
+    background: #188067 !important;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 1px solid #161817;
+    
+}
+/* .view{
+    color: white;
+} */
+a{
+    color:#fff;
+}
+
+/* pagination */
+.pager .active {
+    background-color: #188067;
+    color: white !important;
+    font-weight: 700;
+    transition: all 0.3s;
+  }
+  .pager .btnNum {
+    transition: all 0.3s;
+    color: black;
+  }
+  .pager .btnNum:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    font-weight: 700;
+  }
+  .trashBtn {
+    color: #f55858;
+  }
+  

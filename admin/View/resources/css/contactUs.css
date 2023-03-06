@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poly;
+}
+.verticalLine {
+    border-left: 2px solid black;
+    height: 90%;
+    margin-top: 60%;
+    opacity: 0.1;
+}
+
+.Contact{
+    font-size:30px;
+    margin-top: 7%;
+    font-weight: 30px;
+    margin-bottom: 5%;
+}
+.information {
+    margin-top: 3em;
+    font-size: 1em;
+}
+.infoTitle{
+    font-size: 20px;
+    margin-top: 25%;
+}
+
+.bodyColor {
+    background-color: #188067;
+}
+.iconColor{
+    color: white !important;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.infoDetail{
+    color: white;
+    opacity: 0.5;
+    font-size: 15px;
+    margin-left: 15%;
+
+}
+
+
+
+.contactboxStyle {
+    border: 1px solid #2535A1;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 15px;
+    font-family: poppin !important;
+}
+
+.contactsendButton {
+    background-color: #F9C56B;
+    color: white;
+    border: none !important;
+    margin-top: 5% !important;
+}
+
+
+/* .image{
+    width: 100%;
+    background-size: cover;
+    margin: auto;
+} */
